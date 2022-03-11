@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SlidingDemo.MainPage">
+
+    <AbsoluteLayout VerticalOptions="FillAndExpand" x:Name="TopLayout">
+        <StackLayout BackgroundColor="Yellow" AbsoluteLayout.LayoutBounds="0,1,1,1"  AbsoluteLayout.LayoutFlags="All" x:Name="main" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <Label Text="Job List" HorizontalOptions="Center" VerticalOptions="Center">
+            </Label>
+        </StackLayout>
+        <StackLayout x:Name="body" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All" Orientation="Vertical" VerticalOptions="FillAndExpand" Spacing="0">
+            <StackLayout BackgroundColor="Red" VerticalOptions="FillAndExpand">
+                <Label BackgroundColor="LightGreen" Text="Demo-SlideUp" HorizontalOptions="Center" VerticalOptions="Center">
+                </Label>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Handele_Tapped"></TapGestureRecognizer>
+                </StackLayout.GestureRecognizers>
+            </StackLayout>
+        </StackLayout>
+    </AbsoluteLayout>
+
+</ContentPage>

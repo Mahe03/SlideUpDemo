@@ -1,0 +1,14 @@
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\SlidingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\SlidingDemo.AssemblyInfoInputs.cache
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\SlidingDemo.AssemblyInfo.cs
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\SlidingDemo.csproj.CoreCompileInputs.cache
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\SlidingDemo.dll
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\ref\SlidingDemo.dll
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\SlidingDemo.pdb
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\bin\Debug\netstandard2.0\SlidingDemo.deps.json
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\bin\Debug\netstandard2.0\SlidingDemo.dll
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\bin\Debug\netstandard2.0\ref\SlidingDemo.dll
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\bin\Debug\netstandard2.0\SlidingDemo.pdb
+C:\Users\P10462811\source\repos\SlidingDemo\SlidingDemo\SlidingDemo\obj\Debug\netstandard2.0\XamlC.stamp
